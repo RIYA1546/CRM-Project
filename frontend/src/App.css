@@ -1,0 +1,22 @@
+/* Additional custom app styles */
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.text-success {
+  color: #16a34a;
+}
+
+.text-danger {
+  color: #dc2626;
+}
+
+.text-warning {
+  color: #d97706;
+}
+
+.flex-between {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
